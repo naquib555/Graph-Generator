@@ -1,4 +1,4 @@
-# Graph-Generator for CUDA programming
+# Graph-Generator for parallel programming
 
 Graph representation in the form of adjacency list.
 
